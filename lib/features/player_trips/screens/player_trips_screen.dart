@@ -6,6 +6,7 @@ import "package:ttr_app/core/di/injection.dart";
 import "package:ttr_app/core/services/i_game_service.dart";
 import "package:ttr_app/core/router/app_router.dart";
 import "package:ttr_app/core/theme/app_theme.dart";
+import "package:ttr_app/core/l10n/app_localizations.dart";
 import "package:ttr_app/features/trip_selection/widgets/destination_card.dart";
 
 class PlayerTripsScreen extends StatefulWidget {
@@ -72,12 +73,14 @@ class _PlayerTripsScreenState extends State<PlayerTripsScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("${gamePlayer.player.name}'s Destinations"),
+        title: Text(
+          "${AppLocalizations.of(context)!.destinationsForPlayer} ${gamePlayer.player.name}",
+        ),
         actions: [
           IconButton(
             onPressed: _drawNewDestinations,
             icon: const Icon(Icons.add_circle_outline),
-            tooltip: "Draw new destinations",
+            tooltip: AppLocalizations.of(context)!.drawNewDestinations,
           ),
         ],
       ),
@@ -130,18 +133,18 @@ class _PlayerTripsScreenState extends State<PlayerTripsScreen> {
                                 ),
                               ],
                             ),
-                            child: const Row(
+                            child: Row(
                               mainAxisSize: MainAxisSize.min,
                               children: [
-                                Icon(
+                                const Icon(
                                   Icons.check_circle,
                                   color: Colors.white,
                                   size: 18,
                                 ),
-                                SizedBox(width: 6),
+                                const SizedBox(width: 6),
                                 Text(
-                                  "COMPLETED",
-                                  style: TextStyle(
+                                  AppLocalizations.of(context)!.completed,
+                                  style: const TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold,
                                     fontSize: 12,

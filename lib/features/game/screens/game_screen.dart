@@ -3,6 +3,7 @@ import "package:go_router/go_router.dart";
 import "package:ttr_app/core/models/game.dart";
 import "package:ttr_app/core/router/app_router.dart";
 import "package:ttr_app/core/theme/app_theme.dart";
+import "package:ttr_app/core/l10n/app_localizations.dart";
 
 class GameScreen extends StatefulWidget {
   final Game game;
@@ -18,7 +19,7 @@ class _GameScreenState extends State<GameScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Current Game"),
+        title: Text(AppLocalizations.of(context)!.currentGame),
         automaticallyImplyLeading: false,
         actions: [
           IconButton(
@@ -26,7 +27,7 @@ class _GameScreenState extends State<GameScreen> {
               context.go(AppRoutes.playerSelection);
             },
             icon: const Icon(Icons.refresh_rounded),
-            tooltip: "New Game",
+            tooltip: AppLocalizations.of(context)!.newGame,
           ),
         ],
       ),
@@ -108,7 +109,7 @@ class _GameScreenState extends State<GameScreen> {
                                   ),
                                   const SizedBox(width: 6),
                                   Text(
-                                    "${gamePlayer.destinations.length} destinations",
+                                    "${gamePlayer.destinations.length} ${AppLocalizations.of(context)!.destinations}",
                                     style: TextStyle(
                                       fontSize: 16,
                                       color: Colors.grey.shade600,

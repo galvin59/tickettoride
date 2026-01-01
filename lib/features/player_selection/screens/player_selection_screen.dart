@@ -5,6 +5,7 @@ import "package:ttr_app/core/di/injection.dart";
 import "package:ttr_app/core/services/i_game_service.dart";
 import "package:ttr_app/core/router/app_router.dart";
 import "package:ttr_app/core/theme/app_theme.dart";
+import "package:ttr_app/core/l10n/app_localizations.dart";
 import "package:ttr_app/features/player_selection/bloc/player_selection_bloc.dart";
 import "package:ttr_app/features/player_selection/bloc/player_selection_event.dart";
 import "package:ttr_app/features/player_selection/bloc/player_selection_state.dart";
@@ -90,9 +91,11 @@ class _PlayerSelectionView extends StatelessWidget {
                                     size: 48,
                                   ),
                                   const SizedBox(height: 16),
-                                  const Text(
-                                    "Random Destinations",
-                                    style: TextStyle(
+                                  Text(
+                                    AppLocalizations.of(
+                                      context,
+                                    )!.randomDestinations,
+                                    style: const TextStyle(
                                       color: Colors.white,
                                       fontSize: 24,
                                       fontWeight: FontWeight.bold,
@@ -100,7 +103,9 @@ class _PlayerSelectionView extends StatelessWidget {
                                   ),
                                   const SizedBox(height: 12),
                                   Text(
-                                    "Draw random destinations for Ticket to Ride Europe",
+                                    AppLocalizations.of(
+                                      context,
+                                    )!.randomDestinationsSubtitle,
                                     style: TextStyle(
                                       color: Colors.white.withOpacity(0.9),
                                       fontSize: 14,
@@ -120,8 +125,8 @@ class _PlayerSelectionView extends StatelessWidget {
                   Expanded(
                     child: Column(
                       children: [
-                        const Text(
-                          "Select at least 2 players in the list below",
+                        Text(
+                          AppLocalizations.of(context)!.selectAtLeastPlayers,
                         ),
                         Expanded(
                           child: SingleChildScrollView(
@@ -274,7 +279,7 @@ class _PlayerSelectionView extends StatelessWidget {
                             ),
                           ),
                           child: Text(
-                            "START GAME",
+                            AppLocalizations.of(context)!.startGame,
                             style: TextStyle(
                               fontSize: 18,
                               fontWeight: FontWeight.bold,
