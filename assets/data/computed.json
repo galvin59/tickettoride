@@ -1,0 +1,6491 @@
+[
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "paris",
+        "aid": 2,
+        "nb": 7
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "bruxelles",
+        "aid": 3,
+        "nb": 7
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "brest",
+        "aid": 5,
+        "nb": 8
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "dieppe",
+        "aid": 6,
+        "nb": 6
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "amsterdam",
+        "aid": 7,
+        "nb": 6
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "essen",
+        "aid": 8,
+        "nb": 9
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "pamplona",
+        "aid": 9,
+        "nb": 11
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 14
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 17
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 17
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 13
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 10
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 10
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 8
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 12
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 15
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 10
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 14
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 12
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 11
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 14
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 13
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 15
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 15
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 14
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 17
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 16
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 18
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 22
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 23
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 26
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 21
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 19
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 18
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 22
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 24
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 24
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 22
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 19
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 18
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 18
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 21
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 21
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 23
+    },
+    {
+        "dname": "edimburgh",
+        "did": 1,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 20
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 7
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 10
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 10
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 6
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 8
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 11
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 7
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 5
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 6
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 7
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 8
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 10
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 10
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 9
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 10
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 9
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 11
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 15
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 17
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 20
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 15
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 12
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 13
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 17
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 19
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 19
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 17
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 14
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 13
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 13
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 16
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 16
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 18
+    },
+    {
+        "dname": "paris",
+        "did": 2,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 13
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "pamplona",
+        "aid": 9,
+        "nb": 6
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 9
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 12
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 12
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 8
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 6
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 7
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 10
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 8
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 6
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 8
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 7
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 9
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 9
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 8
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 11
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 10
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 12
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 16
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 17
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 20
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 15
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 13
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 12
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 16
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 18
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 18
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 16
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 13
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 12
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 12
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 15
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 15
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 17
+    },
+    {
+        "dname": "bruxelles",
+        "did": 3,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "pamplona",
+        "aid": 9,
+        "nb": 7
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 10
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 13
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 13
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 9
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 6
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 6
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 8
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 11
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 6
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 10
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 8
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 7
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 10
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 9
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 11
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 11
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 10
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 13
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 12
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 14
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 18
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 19
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 22
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 17
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 15
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 14
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 18
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 20
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 20
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 18
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 15
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 14
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 14
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 17
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 17
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 19
+    },
+    {
+        "dname": "london",
+        "did": 4,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 16
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "essen",
+        "aid": 8,
+        "nb": 8
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 7
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 10
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 10
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 6
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 7
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 6
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 6
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 11
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 14
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 8
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 10
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 8
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 9
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 10
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 11
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 13
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 13
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 12
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 13
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 12
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 14
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 18
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 20
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 23
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 18
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 15
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 16
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 20
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 22
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 22
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 20
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 17
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 16
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 16
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 19
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 19
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 21
+    },
+    {
+        "dname": "brest",
+        "did": 5,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 16
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "essen",
+        "aid": 8,
+        "nb": 6
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 8
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 11
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 11
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 7
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 9
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 12
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 6
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 8
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 6
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 7
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 8
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 9
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 11
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 11
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 10
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 11
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 10
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 12
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 16
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 18
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 21
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 16
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 13
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 14
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 18
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 20
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 20
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 18
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 15
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 14
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 14
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 17
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 17
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 19
+    },
+    {
+        "dname": "dieppe",
+        "did": 6,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "pamplona",
+        "aid": 9,
+        "nb": 7
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 10
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 13
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 13
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 9
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 7
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 6
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 6
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 9
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 8
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 6
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 8
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 7
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 9
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 9
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 8
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 11
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 10
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 12
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 16
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 17
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 20
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 15
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 13
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 12
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 16
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 18
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 18
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 16
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 13
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 12
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 12
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 15
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 15
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 17
+    },
+    {
+        "dname": "amsterdam",
+        "did": 7,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "pamplona",
+        "aid": 9,
+        "nb": 9
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "madrid",
+        "aid": 10,
+        "nb": 12
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 15
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 15
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "barcelona",
+        "aid": 13,
+        "nb": 11
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 8
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 6
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 6
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 8
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 6
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 7
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 6
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 6
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 6
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 9
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 10
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 12
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 15
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 15
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 18
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 13
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 11
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 10
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 14
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 16
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 15
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 13
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 10
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 9
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 9
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 12
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 12
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 14
+    },
+    {
+        "dname": "essen",
+        "did": 8,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 13
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "lisboa",
+        "aid": 11,
+        "nb": 6
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "cadiz",
+        "aid": 12,
+        "nb": 6
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 6
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 7
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 12
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 15
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 8
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 8
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 8
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 10
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 10
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 11
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 14
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 14
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 12
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 13
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 10
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 12
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 16
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 19
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 22
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 18
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 15
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 16
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 20
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 22
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 23
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 21
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 18
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 17
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 17
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 20
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 20
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 22
+    },
+    {
+        "dname": "pamplona",
+        "did": 9,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 6
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 8
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 10
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 15
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 18
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 10
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 10
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 10
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 13
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 12
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 13
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 17
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 17
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 14
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 15
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 12
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 13
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 17
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 21
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 24
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 19
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 17
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 18
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 22
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 24
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 25
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 23
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 20
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 20
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 20
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 24
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 23
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 25
+    },
+    {
+        "dname": "madrid",
+        "did": 10,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 15
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 9
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 11
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 13
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 18
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 21
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 13
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 13
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 13
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 16
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 15
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 16
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 20
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 20
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 17
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 18
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 15
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 16
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 20
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 24
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 27
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 22
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 20
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 21
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 25
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 27
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 28
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 26
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 23
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 23
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 23
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 27
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 26
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 28
+    },
+    {
+        "dname": "lisboa",
+        "did": 11,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 18
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "marseille",
+        "aid": 14,
+        "nb": 9
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 11
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 13
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 18
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 21
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 13
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 13
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 13
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 16
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 15
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 16
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 20
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 20
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 17
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 18
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 15
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 16
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 20
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 24
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 27
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 22
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 20
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 21
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 25
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 27
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 28
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 26
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 23
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 23
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 23
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 27
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 26
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 28
+    },
+    {
+        "dname": "cadiz",
+        "did": 12,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 18
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "zurich",
+        "aid": 15,
+        "nb": 6
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 9
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 14
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 17
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 8
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 8
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 8
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 12
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 10
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 11
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 16
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 15
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 12
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 13
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 10
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 11
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 15
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 19
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 22
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 17
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 15
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 16
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 20
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 22
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 23
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 21
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 18
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 18
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 19
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 22
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 21
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 23
+    },
+    {
+        "dname": "barcelona",
+        "did": 13,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 13
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "frankfurt",
+        "aid": 16,
+        "nb": 6
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 11
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 14
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 9
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 6
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 7
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 13
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 11
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 8
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 9
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 6
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 8
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 12
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 15
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 18
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 14
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 11
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 12
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 16
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 18
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 20
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 18
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 14
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 14
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 16
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 18
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 17
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 19
+    },
+    {
+        "dname": "marseille",
+        "did": 14,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 10
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "kobenhavn",
+        "aid": 17,
+        "nb": 9
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 12
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 7
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 5
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 11
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 9
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 6
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 7
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 6
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 8
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 12
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 14
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 17
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 12
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 9
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 10
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 14
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 16
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 18
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 16
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 12
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 12
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 14
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 16
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 15
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 17
+    },
+    {
+        "dname": "zurich",
+        "did": 15,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 10
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "stockholm",
+        "aid": 18,
+        "nb": 8
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 6
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 6
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 7
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 7
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 6
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 9
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 8
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 10
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 14
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 15
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 18
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 13
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 11
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 10
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 14
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 16
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 16
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 14
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 11
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 10
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 10
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 13
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 13
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 15
+    },
+    {
+        "dname": "frankfurt",
+        "did": 16,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 12
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 7
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 11
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 9
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 10
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 8
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 8
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 9
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 9
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 12
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 13
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 15
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 18
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 18
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 21
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 16
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 14
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 13
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 17
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 19
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 18
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 16
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 12
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 12
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 11
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 11
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 15
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 15
+    },
+    {
+        "dname": "kobenhavn",
+        "did": 17,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 16
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "munchen",
+        "aid": 19,
+        "nb": 10
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "roma",
+        "aid": 20,
+        "nb": 14
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "venezia",
+        "aid": 21,
+        "nb": 12
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 8
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "zagrab",
+        "aid": 23,
+        "nb": 13
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 11
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 11
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 12
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 12
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 15
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 16
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 18
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 21
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 21
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 23
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 19
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 17
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 16
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 20
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 19
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 18
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 16
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 14
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 12
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 12
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 14
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 12
+    },
+    {
+        "dname": "stockholm",
+        "did": 18,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 19
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 9
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 7
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 7
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 6
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 8
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 12
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 13
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 16
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 11
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 9
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 8
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 12
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 14
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 16
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 14
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 10
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 10
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 12
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 14
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 13
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 15
+    },
+    {
+        "dname": "munchen",
+        "did": 19,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 10
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 9
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "wien",
+        "aid": 24,
+        "nb": 6
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 11
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 10
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 6
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 7
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 8
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 11
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 14
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 10
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 9
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 10
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 14
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 16
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 17
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 15
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 12
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 13
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 14
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 17
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 15
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 17
+    },
+    {
+        "dname": "roma",
+        "did": 20,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 6
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "berlin",
+        "aid": 22,
+        "nb": 7
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 9
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 8
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 6
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 10
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 12
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 15
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 10
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 7
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 8
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 12
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 14
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 15
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 13
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 10
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 11
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 12
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 15
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 13
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 15
+    },
+    {
+        "dname": "venezia",
+        "did": 21,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 8
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 7
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 11
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 12
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 13
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 13
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 16
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 11
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 9
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 8
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 12
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 14
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 13
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 11
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 8
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 7
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 7
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 10
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 10
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 12
+    },
+    {
+        "dname": "berlin",
+        "did": 22,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 11
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 8
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "warzawa",
+        "aid": 26,
+        "nb": 6
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 6
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 8
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 9
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 10
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 13
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 8
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 6
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 10
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 12
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 14
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 12
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 8
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 9
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 11
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 13
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 11
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 13
+    },
+    {
+        "dname": "zagrab",
+        "did": 23,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 7
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "danzic",
+        "aid": 25,
+        "nb": 6
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 8
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 9
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 10
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 10
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 13
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 8
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 6
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 9
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 11
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 13
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 11
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 7
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 7
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 9
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 11
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 10
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 12
+    },
+    {
+        "dname": "wien",
+        "did": 24,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 8
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "budapest",
+        "aid": 27,
+        "nb": 7
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 10
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 13
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 15
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 14
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 14
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 16
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 12
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 11
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 9
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 13
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 13
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 11
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 9
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 5
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 7
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 8
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 10
+    },
+    {
+        "dname": "danzic",
+        "did": 25,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "sarajevo",
+        "aid": 28,
+        "nb": 8
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 12
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 13
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 12
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 12
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 14
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 10
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 9
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 7
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 11
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 11
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 9
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 7
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 7
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 6
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 8
+    },
+    {
+        "dname": "warzawa",
+        "did": 26,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 12
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 8
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 10
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 9
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 9
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 12
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 7
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 8
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 10
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 12
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 10
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 8
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 10
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 12
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 9
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 11
+    },
+    {
+        "dname": "budapest",
+        "did": 27,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 7
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "brindisi",
+        "aid": 29,
+        "nb": 8
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "parlermo",
+        "aid": 30,
+        "nb": 11
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 6
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 7
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 10
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 8
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 10
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 12
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 11
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 8
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 9
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 13
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 13
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 11
+    },
+    {
+        "dname": "sarajevo",
+        "did": 28,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 13
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "smyrna",
+        "aid": 31,
+        "nb": 6
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 9
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 12
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 8
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 7
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 9
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 12
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 14
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 15
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 16
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 12
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 14
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 16
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 18
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 15
+    },
+    {
+        "dname": "brindisi",
+        "did": 29,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 17
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "angora",
+        "aid": 32,
+        "nb": 9
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 12
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "constantinople",
+        "aid": 34,
+        "nb": 8
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 10
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 11
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 12
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 14
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 15
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 17
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 15
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 16
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 18
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 20
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 18
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 20
+    },
+    {
+        "dname": "parlermo",
+        "did": 30,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 7
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "erzurum",
+        "aid": 33,
+        "nb": 6
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 6
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 8
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 10
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 12
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 9
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 10
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 14
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 14
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 12
+    },
+    {
+        "dname": "smyrna",
+        "did": 31,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 14
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 6
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 6
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 8
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 10
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 9
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 10
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 14
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 14
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 12
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 14
+    },
+    {
+        "dname": "angora",
+        "did": 32,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 5
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "sofia",
+        "aid": 35,
+        "nb": 8
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "bucuresti",
+        "aid": 36,
+        "nb": 8
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 5
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 7
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 11
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 13
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 17
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 15
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 13
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 11
+    },
+    {
+        "dname": "erzurum",
+        "did": 33,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 8
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 6
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 8
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 10
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 7
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 8
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 12
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 12
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 10
+    },
+    {
+        "dname": "constantinople",
+        "did": 34,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 12
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "sevstopol",
+        "aid": 37,
+        "nb": 6
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 8
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 10
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 9
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 6
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 7
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 11
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 11
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 9
+    },
+    {
+        "dname": "sofia",
+        "did": 35,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 11
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "sochi",
+        "aid": 38,
+        "nb": 6
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "rostov",
+        "aid": 39,
+        "nb": 8
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 7
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 5
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 9
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 9
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 7
+    },
+    {
+        "dname": "bucuresti",
+        "did": 36,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 9
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "kharkov",
+        "aid": 40,
+        "nb": 6
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 8
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 9
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 13
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 13
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 11
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 9
+    },
+    {
+        "dname": "sevstopol",
+        "did": 37,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 8
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 7
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 9
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 13
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 11
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 9
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 7
+    },
+    {
+        "dname": "sochi",
+        "did": 38,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 10
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "kyiv",
+        "aid": 41,
+        "nb": 6
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 7
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 11
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 10
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 8
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 6
+    },
+    {
+        "dname": "rostov",
+        "did": 39,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 11
+    },
+    {
+        "dname": "kharkov",
+        "did": 40,
+        "aname": "wilno",
+        "aid": 42,
+        "nb": 5
+    },
+    {
+        "dname": "kharkov",
+        "did": 40,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 9
+    },
+    {
+        "dname": "kharkov",
+        "did": 40,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 8
+    },
+    {
+        "dname": "kharkov",
+        "did": 40,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 6
+    },
+    {
+        "dname": "kharkov",
+        "did": 40,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 12
+    },
+    {
+        "dname": "kyiv",
+        "did": 41,
+        "aname": "riga",
+        "aid": 43,
+        "nb": 6
+    },
+    {
+        "dname": "kyiv",
+        "did": 41,
+        "aname": "petrograd",
+        "aid": 44,
+        "nb": 6
+    },
+    {
+        "dname": "kyiv",
+        "did": 41,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 9
+    },
+    {
+        "dname": "wilno",
+        "did": 42,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 10
+    },
+    {
+        "dname": "riga",
+        "did": 43,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 7
+    },
+    {
+        "dname": "riga",
+        "did": 43,
+        "aname": "moskva",
+        "aid": 46,
+        "nb": 8
+    },
+    {
+        "dname": "riga",
+        "did": 43,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "petrograd",
+        "did": 44,
+        "aname": "smolensk",
+        "aid": 45,
+        "nb": 6
+    },
+    {
+        "dname": "petrograd",
+        "did": 44,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    },
+    {
+        "dname": "smolensk",
+        "did": 45,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 12
+    },
+    {
+        "dname": "moskva",
+        "did": 46,
+        "aname": "Athina",
+        "aid": 47,
+        "nb": 14
+    }
+]
