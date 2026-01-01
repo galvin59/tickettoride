@@ -1,5 +1,6 @@
 import "package:flutter/material.dart";
 import "package:ttr_app/core/router/app_router.dart";
+import "package:ttr_app/core/theme/app_theme.dart";
 
 class TicketToRideApp extends StatelessWidget {
   const TicketToRideApp({super.key});
@@ -7,9 +8,9 @@ class TicketToRideApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: "Ticket to Ride: Europe",
+      title: "Ticket to Ride",
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(primarySwatch: Colors.blue, useMaterial3: true),
+      theme: AppTheme.lightTheme,
       routerConfig: appRouter,
     );
   }

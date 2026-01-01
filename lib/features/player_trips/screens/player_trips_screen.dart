@@ -5,6 +5,7 @@ import "package:ttr_app/core/models/destination.dart";
 import "package:ttr_app/core/di/injection.dart";
 import "package:ttr_app/core/services/i_game_service.dart";
 import "package:ttr_app/core/router/app_router.dart";
+import "package:ttr_app/core/theme/app_theme.dart";
 import "package:ttr_app/features/trip_selection/widgets/destination_card.dart";
 
 class PlayerTripsScreen extends StatefulWidget {
@@ -71,14 +72,12 @@ class _PlayerTripsScreenState extends State<PlayerTripsScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Destinations for player ${gamePlayer.player.name}"),
+        title: Text("${gamePlayer.player.name}'s Destinations"),
         actions: [
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 10),
-            child: InkWell(
-              onTap: _drawNewDestinations,
-              child: const Icon(Icons.add),
-            ),
+          IconButton(
+            onPressed: _drawNewDestinations,
+            icon: const Icon(Icons.add_circle_outline),
+            tooltip: "Draw new destinations",
           ),
         ],
       ),
@@ -113,16 +112,43 @@ class _PlayerTripsScreenState extends State<PlayerTripsScreen> {
                         Align(
                           alignment: Alignment.topLeft,
                           child: Container(
-                            width: 80,
-                            padding: const EdgeInsets.all(10),
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 16,
+                              vertical: 8,
+                            ),
                             margin: const EdgeInsets.all(20),
                             decoration: BoxDecoration(
-                              color: const Color(0xDDFFFFFF),
-                              borderRadius: BorderRadius.circular(10),
+                              gradient: const LinearGradient(
+                                colors: [AppColors.success, Color(0xFF229954)],
+                              ),
+                              borderRadius: BorderRadius.circular(20),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: AppColors.success.withOpacity(0.4),
+                                  blurRadius: 8,
+                                  offset: const Offset(0, 2),
+                                ),
+                              ],
                             ),
-                            child: const Text(
-                              "FINI",
-                              textAlign: TextAlign.center,
+                            child: const Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                Icon(
+                                  Icons.check_circle,
+                                  color: Colors.white,
+                                  size: 18,
+                                ),
+                                SizedBox(width: 6),
+                                Text(
+                                  "COMPLETED",
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 12,
+                                    letterSpacing: 0.5,
+                                  ),
+                                ),
+                              ],
                             ),
                           ),
                         ),
