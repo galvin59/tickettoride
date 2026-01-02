@@ -1,13 +1,17 @@
-# Ticket to Ride: Europe - Companion App V2
+# TTR Generator - Railway Board Game Companion
 
-A Flutter companion application for the Ticket to Ride: Europe board game.
+A Flutter companion application for railway board games enthusiasts, generating random trips and enhancing the gaming experience.
 
 ## Features
 
 - **Player Management**: Add, select, and manage players
-- **Destination Selection**: Draw and select long and short destinations
+- **Random Trip Generation**: Generate random destinations for varied gameplay
 - **Game Tracking**: Track player destinations and completion status
 - **Score Calculation**: Automatic point calculation based on completed destinations
+- **Multilingual Support**: Available in English, French, Spanish, and Italian
+- **Responsive Design**: Optimized for all screen sizes
+- **Dark/Light Theme**: Customizable theme with smooth transitions
+- **Offline Mode**: Works completely offline without internet connection
 
 ## Architecture
 
@@ -26,6 +30,8 @@ This application follows Clean Architecture principles with:
 - **go_router**: Navigation
 - **shared_preferences**: Local storage
 - **logger**: Structured logging
+- **url_launcher**: For external links
+- **flutter_launcher_icons**: App icon generation
 
 ## Getting Started
 
@@ -57,10 +63,32 @@ Run all tests:
 flutter test
 ```
 
-Run specific test:
+Run tests with coverage:
 ```bash
-flutter test test/core/models/city_test.dart
+flutter test --coverage
+genhtml coverage/lcov.info -o coverage/html
 ```
+
+Run specific test files:
+```bash
+# Core models
+flutter test test/core/models/city_test.dart
+
+# Core services
+flutter test test/core/services/game_service_test.dart
+
+# Player selection BLoC
+flutter test test/features/player_selection/bloc/player_selection_bloc_test.dart
+
+# Player trips BLoC
+flutter test test/features/player_trips/bloc/player_trips_bloc_test.dart
+```
+
+### Test Coverage
+- ✅ Core Models: City serialization/deserialization
+- ✅ Core Services: Game creation logic
+- ✅ Player Selection BLoC: State management
+- ✅ Player Trips BLoC: Trip tracking logic
 
 ## Project Structure
 
@@ -68,10 +96,12 @@ flutter test test/core/models/city_test.dart
 lib/
 ├── core/
 │   ├── di/              # Dependency injection
+│   ├── l10n/            # Localization (EN, FR, ES, IT)
 │   ├── models/          # Domain models
 │   ├── repositories/    # Data repositories
 │   ├── router/          # Navigation configuration
-│   └── services/        # Business logic services
+│   ├── services/        # Business logic services
+│   └── theme/           # App theme and colors
 ├── features/
 │   ├── player_selection/  # Player selection feature
 │   ├── trip_selection/    # Destination selection feature
@@ -83,6 +113,43 @@ lib/
 └── main.dart           # Entry point
 ```
 
+## Localization
+
+This app supports multiple languages:
+- 🇬🇧 English (default)
+- 🇫🇷 French
+- 🇪🇸 Spanish
+- 🇮🇹 Italian
+
+To add a new language:
+1. Add translations in `lib/core/l10n/app_localizations.dart`
+2. Update supported locales in `lib/app.dart`
+3. Run `flutter gen-l10n`
+
+## App Icon
+
+The app icon is generated using `flutter_launcher_icons`:
+```bash
+# Update icon.png in assets/images/
+flutter pub run flutter_launcher_icons
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### Guidelines
+- Follow the existing code style
+- Add tests for new features
+- Update documentation
+- Ensure all tests pass before submitting
+
+## 🎯 About This Project
+
+This application was created by a board game enthusiast for the community. It's designed to enhance the gaming experience by providing random trip generation and tracking features.
+
+**Disclaimer**: This is an unofficial companion app and is not affiliated with or endorsed by any board game publishers.
+
 ## License
 
-This project is for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
