@@ -100,29 +100,37 @@ class PlayerSelectionBloc
     String playerId,
     Emitter<PlayerSelectionState> emit,
   ) async {
-    emit(state.copyWith(isLoading: true, errorMessage: null));
+    // Optimistic update: Remove player from state immediately to satisfy Dismissible requirement
+    final updatedPlayers = state.allPlayers
+        .where((p) => p.id != playerId)
+        .toList();
+    final updatedSelectedIds = state.selectedPlayerIds
+        .where((id) => id != playerId)
+        .toList();
+
+    emit(
+      state.copyWith(
+        isLoading: true,
+        errorMessage: null,
+        allPlayers: updatedPlayers,
+        selectedPlayerIds: updatedSelectedIds,
+      ),
+    );
+
     try {
       await _playerRepository.remove(playerId);
-      final updatedPlayers = state.allPlayers
-          .where((p) => p.id != playerId)
-          .toList();
-      final updatedSelectedIds = state.selectedPlayerIds
-          .where((id) => id != playerId)
-          .toList();
-      _logger.i("Deleted player: \$playerId");
-      emit(
-        state.copyWith(
-          allPlayers: updatedPlayers,
-          selectedPlayerIds: updatedSelectedIds,
-          isLoading: false,
-        ),
-      );
+      _logger.i("Deleted player: $playerId");
+      emit(state.copyWith(isLoading: false));
     } catch (e) {
       _logger.e("Error deleting player", error: e);
+      // If deletion fails, we should ideally revert or reload.
+      // Reloading ensuring we are in sync with source of truth.
+      final players = await _playerRepository.getAll();
       emit(
         state.copyWith(
           isLoading: false,
-          errorMessage: "Failed to delete player: \$e",
+          errorMessage: "Failed to delete player: $e",
+          allPlayers: players,
         ),
       );
     }

@@ -162,71 +162,76 @@ class _TripSelectionView extends StatelessWidget {
           ),
           body: Stack(
             children: [
-              Column(
-                children: [
-                  if (state.longDestination != null && isStartingGame) ...[
-                    Padding(
-                      padding: const EdgeInsets.only(top: 8.0),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.center,
-                        children: [
-                          Text(
-                            AppLocalizations.of(context)!.longDestination,
-                            style: const TextStyle(
-                              fontSize: 16,
-                              fontWeight: FontWeight.bold,
-                            ),
-                          ),
-                          const SizedBox(height: 8),
-                          DestinationCard(
-                            destination: state.longDestination!,
-                            isSelected: true,
-                            onTap: () {},
-                            isBlurred: isBlurred,
-                          ),
-                        ],
-                      ),
-                    ),
-                  ],
-                  Padding(
-                    padding: const EdgeInsets.only(top: 8.0),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.center,
-                      children: [
-                        Text(
-                          "${AppLocalizations.of(context)!.selectAtLeast} 1 ${AppLocalizations.of(context)!.destinations}",
-                          style: const TextStyle(
-                            fontSize: 16,
-                            fontWeight: FontWeight.bold,
+              SingleChildScrollView(
+                child: Padding(
+                  padding: const EdgeInsets.only(bottom: 20),
+                  child: Column(
+                    children: [
+                      if (state.longDestination != null && isStartingGame) ...[
+                        Padding(
+                          padding: const EdgeInsets.only(top: 8.0),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Text(
+                                AppLocalizations.of(context)!.longDestination,
+                                style: const TextStyle(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              const SizedBox(height: 8),
+                              DestinationCard(
+                                destination: state.longDestination!,
+                                isSelected: true,
+                                onTap: () {},
+                                isBlurred: isBlurred,
+                              ),
+                            ],
                           ),
                         ),
-                        const SizedBox(height: 8),
-                        ...state.shortDestinations.map((destination) {
-                          final isSelected = state.selectedShortDestinations
-                              .any(
-                                (d) =>
-                                    d.departureCityId ==
-                                        destination.departureCityId &&
-                                    d.arrivalCityId ==
-                                        destination.arrivalCityId,
-                              );
-                          return DestinationCard(
-                            destination: destination,
-                            isSelected: isSelected,
-                            onTap: () {
-                              context.read<TripSelectionBloc>().add(
-                                TripSelectionEvent.toggleShortDestination(
-                                  destination,
-                                ),
-                              );
-                            },
-                            isBlurred: isBlurred,
-                          );
-                        }),
                       ],
-                    ),
+                      Padding(
+                        padding: const EdgeInsets.only(top: 8.0),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.center,
+                          children: [
+                            Text(
+                              "${AppLocalizations.of(context)!.selectAtLeast} 1 ${AppLocalizations.of(context)!.destinations}",
+                              style: const TextStyle(
+                                fontSize: 16,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                            const SizedBox(height: 8),
+                            ...state.shortDestinations.map((destination) {
+                              final isSelected = state.selectedShortDestinations
+                                  .any(
+                                    (d) =>
+                                        d.departureCityId ==
+                                            destination.departureCityId &&
+                                        d.arrivalCityId ==
+                                            destination.arrivalCityId,
+                                  );
+                              return DestinationCard(
+                                destination: destination,
+                                isSelected: isSelected,
+                                onTap: () {
+                                  context.read<TripSelectionBloc>().add(
+                                    TripSelectionEvent.toggleShortDestination(
+                                      destination,
+                                    ),
+                                  );
+                                },
+                                isBlurred: isBlurred,
+                              );
+                            }),
+                          ],
+                        ),
+                      ),
+                    ],
                   ),
-                ],
+                ),
               ),
               if (isBlurred)
                 Positioned.fill(

@@ -37,6 +37,27 @@ class AppLocalizations {
       _localizedValues[locale.languageCode]!['selectAtLeastPlayers']!;
   String get startGame => _localizedValues[locale.languageCode]!['startGame']!;
   String get addPlayer => _localizedValues[locale.languageCode]!['addPlayer']!;
+  String get addFirstPlayer =>
+      _localizedValues[locale.languageCode]!['addFirstPlayer']!;
+  String get addAnotherPlayer =>
+      _localizedValues[locale.languageCode]!['addAnotherPlayer']!;
+  String get welcomeToTicketToRide =>
+      _localizedValues[locale.languageCode]!['welcomeToTicketToRide']!;
+  String get appDescription =>
+      _localizedValues[locale.languageCode]!['appDescription']!;
+  String get createFirstPlayer =>
+      _localizedValues[locale.languageCode]!['createFirstPlayer']!;
+  String get about => _localizedValues[locale.languageCode]!['about']!;
+  String get madeWithLove =>
+      _localizedValues[locale.languageCode]!['madeWithLove']!;
+  String get appStory => _localizedValues[locale.languageCode]!['appStory']!;
+  String get credits => _localizedValues[locale.languageCode]!['credits']!;
+  String get disclaimer =>
+      _localizedValues[locale.languageCode]!['disclaimer']!;
+  String get confirmNewGame =>
+      _localizedValues[locale.languageCode]!['confirmNewGame']!;
+  String get confirmNewGameDescription =>
+      _localizedValues[locale.languageCode]!['confirmNewGameDescription']!;
   String get playerName =>
       _localizedValues[locale.languageCode]!['playerName']!;
   String get playerNameRequired =>
@@ -98,6 +119,23 @@ class AppLocalizations {
       'playerNameRequired': 'Player name is required',
       'playerNameEmpty': 'Player name cannot be empty',
       'playerAlreadyExists': 'A player with this name already exists',
+      'addFirstPlayer': 'Add a first player',
+      'addAnotherPlayer': 'Add another player',
+      'welcomeToTicketToRide': 'Welcome to Ticket to Ride\nTrips Generator!',
+      'appDescription':
+          'This app is a companion for the board game Ticket to Ride Europe.\nIt generates random trips and is ideal if you are an experienced player who feels limited by the trips provided with the board game.\n\nAdd your players, draw your starting destinations, and track your routes in real time!',
+      'createFirstPlayer': 'Create my first player',
+      'about': 'About',
+      'madeWithLove':
+          'Made with ❤️ by a board game enthusiast, for board game enthusiasts!',
+      'appStory':
+          'This app was created because I love railway board games but sometimes felt limited by the destinations provided in the box. As an experienced player, I wanted more variety and randomness in our games.\n\nThat\'s why I built this companion app - to generate random trips and enhance the gaming experience for passionate players like you.',
+      'credits': 'Credits:',
+      'disclaimer':
+          'This app is an unofficial companion for board games and is not affiliated with or endorsed by the original game publishers.',
+      'confirmNewGame': 'Start a new game?',
+      'confirmNewGameDescription':
+          'All current game progress will be lost. Are you sure you want to start a new game?',
       'currentGame': 'Current Game',
       'newGame': 'New Game',
       'destinations': 'destinations',
@@ -133,6 +171,24 @@ class AppLocalizations {
       'playerNameRequired': 'Le nom du joueur est requis',
       'playerNameEmpty': 'Le nom du joueur ne peut pas être vide',
       'playerAlreadyExists': 'Un joueur avec ce nom existe déjà',
+      'addFirstPlayer': 'Ajouter un premier joueur',
+      'addAnotherPlayer': 'Ajouter un autre joueur',
+      'welcomeToTicketToRide':
+          'Bienvenue dans Ticket to Ride\nGénérateur de trajets !',
+      'appDescription':
+          'Cette application est une compagne pour le jeu de société Ticket to Ride Europe.\nElle génère des trajets aléatoires et est idéale si vous êtes un joueur expérimenté qui se sent limité par les trajets fournis avec le jeu de société.\n\nAjoutez vos joueurs, tirez vos destinations de départ, et suivez vos parcours en temps réel !',
+      'createFirstPlayer': 'Créer mon premier joueur',
+      'about': 'À propos',
+      'madeWithLove':
+          'Fait avec ❤️ par un passionné de jeux de société, pour les passionnés de jeux de société !',
+      'appStory':
+          'Cette application a été créée car j\'adore les jeux de société ferroviaires mais je me sentais parfois limité par les destinations fournies dans la boîte. En tant que joueur expérimenté, je voulais plus de variété et de aléatoire dans nos parties.\n\nC\'est pourquoi j\'ai construit cette application compagnon - pour générer des trajets aléatoires et améliorer l\'expérience de jeu pour des passionnés comme vous.',
+      'credits': 'Crédits :',
+      'disclaimer':
+          'Cette application est un compagnon non officiel pour les jeux de société et n\'est pas affiliée ou approuvée par les éditeurs de jeux originaux.',
+      'confirmNewGame': 'Commencer une nouvelle partie ?',
+      'confirmNewGameDescription':
+          'Toute la progression de la partie actuelle sera perdue. Êtes-vous sûr de vouloir commencer une nouvelle partie ?',
       'currentGame': 'Partie en cours',
       'newGame': 'Nouvelle partie',
       'destinations': 'destinations',
@@ -168,6 +224,24 @@ class AppLocalizations {
       'playerNameRequired': 'El nombre del jugador es requerido',
       'playerNameEmpty': 'El nombre del jugador no puede estar vacío',
       'playerAlreadyExists': 'Ya existe un jugador con este nombre',
+      'addFirstPlayer': 'Añadir un primer jugador',
+      'addAnotherPlayer': 'Añadir otro jugador',
+      'welcomeToTicketToRide':
+          '¡Bienvenido a Ticket to Ride\nGenerador de rutas!',
+      'appDescription':
+          'Esta aplicación es una compañera del juego de mesa Ticket to Ride Europa.\nGenera rutas aleatorias y es ideal si eres un jugador experimentado que se siente limitado por las rutas proporcionadas con el juego de mesa.\n\n¡Añade tus jugadores, saca tus destinos de inicio y sigue tus rutas en tiempo real!',
+      'createFirstPlayer': 'Crear mi primer jugador',
+      'about': 'Acerca de',
+      'madeWithLove':
+          '¡Hecho con ❤️ por un entusiasta de los juegos de mesa, para entusiastas de los juegos de mesa!',
+      'appStory':
+          'Esta aplicación fue creada porque amo los juegos de mesa de trenes pero a veces me sentía limitado por los destinos proporcionados en la caja. Como jugador experimentado, quería más variedad y aleatoriedad en nuestros juegos.\n\nPor eso construí esta aplicación compañera - para generar rutas aleatorias y mejorar la experiencia de juego para jugadores apasionados como tú.',
+      'credits': 'Créditos:',
+      'disclaimer':
+          'Esta aplicación es un compañero no oficial para juegos de mesa y no está afiliada ni respaldada por los editores de juegos originales.',
+      'confirmNewGame': '¿Comenzar un nuevo juego?',
+      'confirmNewGameDescription':
+          'Todo el progreso del juego actual se perderá. ¿Estás seguro de que quieres comenzar un nuevo juego?',
       'currentGame': 'Juego actual',
       'newGame': 'Nuevo juego',
       'destinations': 'destinos',
@@ -203,6 +277,24 @@ class AppLocalizations {
       'playerNameRequired': 'Il nome del giocatore è richiesto',
       'playerNameEmpty': 'Il nome del giocatore non può essere vuoto',
       'playerAlreadyExists': 'Esiste già un giocatore con questo nome',
+      'addFirstPlayer': 'Aggiungi un primo giocatore',
+      'addAnotherPlayer': 'Aggiungi un altro giocatore',
+      'welcomeToTicketToRide':
+          'Benvenuto in Ticket to Ride\nGeneratore di percorsi!',
+      'appDescription':
+          'Questa app è una compagnia del gioco da tavolo Ticket to Ride Europa.\nGenera percorsi casuali ed è ideale se sei un giocatore esperto che si sente limitato dai percorsi forniti con il gioco da tavolo.\n\nAggiungi i tuoi giocatori, estrai le tue destinazioni di partenza e segui i tuoi percorsi in tempo reale!',
+      'createFirstPlayer': 'Crea il mio primo giocatore',
+      'about': 'Informazioni',
+      'madeWithLove':
+          'Fatto con ❤️ da un appassionato di giochi da tavolo, per appassionati di giochi da tavolo!',
+      'appStory':
+          'Questa app è stata creata perché amo i giochi da tavolo ferroviari ma a volte mi sentivo limitato dalle destinazioni fornite nella scatola. Come giocatore esperto, volevo più varietà e casualità nei nostri giochi.\n\nPer questo ho costruito questa app compagnon - per generare percorsi casuali e migliorare l\'esperienza di gioco per giocatori appassionati come te.',
+      'credits': 'Crediti:',
+      'disclaimer':
+          'Questa app è un compagno non ufficiale per i giochi da tavolo e non è affiliata o approvata dagli editori di giochi originali.',
+      'confirmNewGame': 'Iniziare un nuovo gioco?',
+      'confirmNewGameDescription':
+          'Tutti i progressi del gioco attuale andranno persi. Sei sicuro di voler iniziare un nuovo gioco?',
       'currentGame': 'Gioco attuale',
       'newGame': 'Nuovo gioco',
       'destinations': 'destinazioni',

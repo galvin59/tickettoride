@@ -23,9 +23,7 @@ class _GameScreenState extends State<GameScreen> {
         automaticallyImplyLeading: false,
         actions: [
           IconButton(
-            onPressed: () {
-              context.go(AppRoutes.playerSelection);
-            },
+            onPressed: () => _showNewGameConfirmation(context),
             icon: const Icon(Icons.refresh_rounded),
             tooltip: AppLocalizations.of(context)!.newGame,
           ),
@@ -133,6 +131,43 @@ class _GameScreenState extends State<GameScreen> {
             );
           }).toList(),
         ),
+      ),
+    );
+  }
+
+  void _showNewGameConfirmation(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
+
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: Text(l10n.confirmNewGame),
+        content: Text(l10n.confirmNewGameDescription),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: Text(
+              l10n.cancel,
+              style: TextStyle(
+                color: Colors.grey.shade600,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.of(context).pop();
+              context.go(AppRoutes.playerSelection);
+            },
+            child: Text(
+              l10n.confirm,
+              style: TextStyle(
+                color: AppColors.secondary,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }

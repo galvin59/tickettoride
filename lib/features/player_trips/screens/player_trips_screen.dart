@@ -85,82 +85,88 @@ class _PlayerTripsScreenState extends State<PlayerTripsScreen> {
         ],
       ),
       body: SingleChildScrollView(
-        child: Column(
-          children: [
-            ListView.builder(
-              itemCount: gamePlayer.destinations.length,
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              itemBuilder: (context, index) {
-                final playerDestination = gamePlayer.destinations[index];
-                final destination = playerDestination.destination;
-                return Dismissible(
-                  key: Key(
-                    "${destination.arrivalCityId}-${destination.departureCityId}",
-                  ),
-                  onDismissed: (direction) {},
-                  confirmDismiss: (direction) async {
-                    _toggleDestinationCompletion(destination);
-                    return false;
-                  },
-                  child: Stack(
-                    children: [
-                      DestinationCard(
-                        destination: destination,
-                        isSelected: false,
-                        onTap: () {},
-                        isBlurred: false,
-                      ),
-                      if (playerDestination.isCompleted)
-                        Align(
-                          alignment: Alignment.topLeft,
-                          child: Container(
-                            padding: const EdgeInsets.symmetric(
-                              horizontal: 16,
-                              vertical: 8,
-                            ),
-                            margin: const EdgeInsets.all(20),
-                            decoration: BoxDecoration(
-                              gradient: const LinearGradient(
-                                colors: [AppColors.success, Color(0xFF229954)],
+        child: Padding(
+          padding: const EdgeInsets.only(bottom: 20),
+          child: Column(
+            children: [
+              ListView.builder(
+                itemCount: gamePlayer.destinations.length,
+                shrinkWrap: true,
+                physics: const NeverScrollableScrollPhysics(),
+                itemBuilder: (context, index) {
+                  final playerDestination = gamePlayer.destinations[index];
+                  final destination = playerDestination.destination;
+                  return Dismissible(
+                    key: Key(
+                      "${destination.arrivalCityId}-${destination.departureCityId}",
+                    ),
+                    onDismissed: (direction) {},
+                    confirmDismiss: (direction) async {
+                      _toggleDestinationCompletion(destination);
+                      return false;
+                    },
+                    child: Stack(
+                      children: [
+                        DestinationCard(
+                          destination: destination,
+                          isSelected: false,
+                          onTap: () {},
+                          isBlurred: false,
+                        ),
+                        if (playerDestination.isCompleted)
+                          Align(
+                            alignment: Alignment.topLeft,
+                            child: Container(
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: 16,
+                                vertical: 8,
                               ),
-                              borderRadius: BorderRadius.circular(20),
-                              boxShadow: [
-                                BoxShadow(
-                                  color: AppColors.success.withOpacity(0.4),
-                                  blurRadius: 8,
-                                  offset: const Offset(0, 2),
+                              margin: const EdgeInsets.all(20),
+                              decoration: BoxDecoration(
+                                gradient: const LinearGradient(
+                                  colors: [
+                                    AppColors.success,
+                                    Color(0xFF229954),
+                                  ],
                                 ),
-                              ],
-                            ),
-                            child: Row(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                const Icon(
-                                  Icons.check_circle,
-                                  color: Colors.white,
-                                  size: 18,
-                                ),
-                                const SizedBox(width: 6),
-                                Text(
-                                  AppLocalizations.of(context)!.completed,
-                                  style: const TextStyle(
-                                    color: Colors.white,
-                                    fontWeight: FontWeight.bold,
-                                    fontSize: 12,
-                                    letterSpacing: 0.5,
+                                borderRadius: BorderRadius.circular(20),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: AppColors.success.withOpacity(0.4),
+                                    blurRadius: 8,
+                                    offset: const Offset(0, 2),
                                   ),
-                                ),
-                              ],
+                                ],
+                              ),
+                              child: Row(
+                                mainAxisSize: MainAxisSize.min,
+                                children: [
+                                  const Icon(
+                                    Icons.check_circle,
+                                    color: Colors.white,
+                                    size: 18,
+                                  ),
+                                  const SizedBox(width: 6),
+                                  Text(
+                                    AppLocalizations.of(context)!.completed,
+                                    style: const TextStyle(
+                                      color: Colors.white,
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12,
+                                      letterSpacing: 0.5,
+                                    ),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
-                        ),
-                    ],
-                  ),
-                );
-              },
-            ),
-          ],
+                      ],
+                    ),
+                  );
+                },
+              ),
+            ],
+          ),
         ),
       ),
     );

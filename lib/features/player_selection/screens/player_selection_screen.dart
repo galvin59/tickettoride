@@ -10,6 +10,7 @@ import "package:ttr_app/features/player_selection/bloc/player_selection_bloc.dar
 import "package:ttr_app/features/player_selection/bloc/player_selection_event.dart";
 import "package:ttr_app/features/player_selection/bloc/player_selection_state.dart";
 import "package:ttr_app/features/player_selection/widgets/add_player_form.dart";
+import "package:ttr_app/shared/widgets/info_button.dart";
 import "package:ttr_app/shared/widgets/language_selector.dart";
 
 class PlayerSelectionScreen extends StatelessWidget {
@@ -36,7 +37,8 @@ class _PlayerSelectionView extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
         elevation: 0,
-        actions: const [LanguageSelector()],
+        toolbarHeight: 40,
+        actions: const [LanguageSelector(), InfoButton()],
       ),
       body: BlocConsumer<PlayerSelectionBloc, PlayerSelectionState>(
         listenWhen: (previous, current) =>
@@ -58,95 +60,152 @@ class _PlayerSelectionView extends StatelessWidget {
 
           return Column(
             children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+                child: const Column(children: []),
+              ),
+              const SizedBox(height: 8),
               Expanded(
-                child: SingleChildScrollView(
-                  child: Padding(
-                    padding: const EdgeInsets.all(20.0),
-                    child: Column(
-                      children: [
-                        Image.asset("assets/ttrlogo.jpeg", height: 180),
-                        const SizedBox(height: 24),
-                        Container(
-                          padding: const EdgeInsets.all(24),
-                          decoration: BoxDecoration(
-                            color: AppColors.background,
-                            borderRadius: BorderRadius.circular(20),
-                            border: Border.all(
-                              color: AppColors.accent.withOpacity(0.3),
-                              width: 2,
+                child: Container(
+                  margin: const EdgeInsets.symmetric(horizontal: 16),
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade50,
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(color: Colors.grey.shade200, width: 2),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      if (state.allPlayers.isNotEmpty) ...[
+                        Row(
+                          children: [
+                            Icon(
+                              Icons.people,
+                              color: AppColors.accent,
+                              size: 24,
                             ),
+                            const SizedBox(width: 8),
+                            Text(
+                              AppLocalizations.of(
+                                context,
+                              )!.playerSelectionTitle,
+                              style: const TextStyle(
+                                fontSize: 18,
+                                fontWeight: FontWeight.bold,
+                                color: AppColors.textPrimary,
+                              ),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 8),
+                        Text(
+                          AppLocalizations.of(context)!.selectAtLeastPlayers,
+                          style: TextStyle(
+                            fontSize: 13,
+                            color: AppColors.textSecondary,
                           ),
+                        ),
+                      ],
+                      const SizedBox(height: 16),
+                      if (state.allPlayers.isEmpty) ...[
+                        const SizedBox(height: 20),
+                        Expanded(
                           child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              Row(
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                children: [
-                                  Container(
-                                    padding: const EdgeInsets.all(12),
-                                    decoration: BoxDecoration(
-                                      color: AppColors.accent,
-                                      borderRadius: BorderRadius.circular(12),
+                              Flexible(
+                                flex: 2,
+                                fit: FlexFit.loose,
+                                child: ConstrainedBox(
+                                  constraints: const BoxConstraints(
+                                    maxHeight: 120,
+                                  ),
+                                  child: Image.asset(
+                                    "assets/images/icon.png",
+                                    width: 80,
+                                    height: 80,
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(height: 16),
+                              Text(
+                                AppLocalizations.of(
+                                  context,
+                                )!.welcomeToTicketToRide,
+                                style: const TextStyle(
+                                  fontSize: 20,
+                                  fontWeight: FontWeight.bold,
+                                  color: AppColors.textPrimary,
+                                ),
+                                textAlign: TextAlign.center,
+                              ),
+                              const SizedBox(height: 12),
+                              Text(
+                                AppLocalizations.of(context)!.appDescription,
+                                style: const TextStyle(
+                                  fontSize: 14,
+                                  color: AppColors.textSecondary,
+                                  height: 1.5,
+                                ),
+                                textAlign: TextAlign.center,
+                              ),
+                              const SizedBox(height: 24),
+                              Container(
+                                decoration: BoxDecoration(
+                                  gradient: LinearGradient(
+                                    colors: [
+                                      AppColors.accent,
+                                      AppColors.accent.withOpacity(0.8),
+                                    ],
+                                  ),
+                                  borderRadius: BorderRadius.circular(16),
+                                  boxShadow: [
+                                    BoxShadow(
+                                      color: AppColors.accent.withOpacity(0.3),
+                                      blurRadius: 12,
+                                      offset: const Offset(0, 4),
                                     ),
-                                    child: const Icon(
-                                      Icons.train,
+                                  ],
+                                ),
+                                child: ElevatedButton.icon(
+                                  onPressed: () => showAddPlayerDialog(context),
+                                  icon: const Icon(
+                                    Icons.add_circle,
+                                    color: Colors.white,
+                                  ),
+                                  label: Text(
+                                    AppLocalizations.of(
+                                      context,
+                                    )!.createFirstPlayer,
+                                    style: const TextStyle(
                                       color: Colors.white,
-                                      size: 32,
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.w600,
                                     ),
                                   ),
-                                  const SizedBox(width: 16),
-                                  Expanded(
-                                    child: Column(
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.start,
-                                      children: [
-                                        Text(
-                                          AppLocalizations.of(
-                                            context,
-                                          )!.randomDestinations,
-                                          style: const TextStyle(
-                                            color: AppColors.textPrimary,
-                                            fontSize: 20,
-                                            fontWeight: FontWeight.bold,
-                                          ),
-                                        ),
-                                        const SizedBox(height: 4),
-                                        Text(
-                                          AppLocalizations.of(
-                                            context,
-                                          )!.randomDestinationsSubtitle,
-                                          style: TextStyle(
-                                            color: AppColors.textSecondary,
-                                            fontSize: 13,
-                                          ),
-                                        ),
-                                      ],
+                                  style: ElevatedButton.styleFrom(
+                                    backgroundColor: Colors.transparent,
+                                    shadowColor: Colors.transparent,
+                                    padding: const EdgeInsets.symmetric(
+                                      horizontal: 32,
+                                      vertical: 16,
+                                    ),
+                                    shape: RoundedRectangleBorder(
+                                      borderRadius: BorderRadius.circular(16),
                                     ),
                                   ),
-                                ],
+                                ),
                               ),
                             ],
                           ),
                         ),
-                        const SizedBox(height: 16),
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-              const SizedBox(height: 20),
-              Expanded(
-                child: Column(
-                  children: [
-                    Text(AppLocalizations.of(context)!.selectAtLeastPlayers),
-                    Expanded(
-                      child: SingleChildScrollView(
-                        child: ListView.builder(
-                          padding: EdgeInsets.zero,
-                          shrinkWrap: true,
-                          physics: const NeverScrollableScrollPhysics(),
-                          itemCount: state.allPlayers.length + 1,
-                          itemBuilder: (context, index) {
-                            if (index < state.allPlayers.length) {
+                      ] else ...[
+                        Expanded(
+                          child: ListView.builder(
+                            padding: EdgeInsets.zero,
+                            itemCount: state.allPlayers.length,
+                            itemBuilder: (context, index) {
                               final player = state.allPlayers[index];
                               final isSelected = state.selectedPlayerIds
                                   .contains(player.id);
@@ -232,14 +291,14 @@ class _PlayerSelectionView extends StatelessWidget {
                                   ),
                                 ),
                               );
-                            } else {
-                              return const AddPlayerForm();
-                            }
-                          },
+                            },
+                          ),
                         ),
-                      ),
-                    ),
-                  ],
+                        const SizedBox(height: 12),
+                        const AddPlayerForm(),
+                      ],
+                    ],
+                  ),
                 ),
               ),
               const SizedBox(height: 20),
@@ -297,6 +356,7 @@ class _PlayerSelectionView extends StatelessWidget {
                   );
                 },
               ),
+              const SizedBox(height: 50),
             ],
           );
         },
