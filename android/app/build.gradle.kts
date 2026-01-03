@@ -32,7 +32,7 @@ android {
 
     signingConfigs {
         create("release") {
-            if (System.getenv()["CI"] != null) { // CI=true is exported by Codemagic
+            if (System.getenv()["CM_KEYSTORE_PATH"] != null) { // Codemagic environment
                 storeFile = file(System.getenv()["CM_KEYSTORE_PATH"])
                 storePassword = System.getenv()["CM_KEYSTORE_PASSWORD"]
                 keyAlias = System.getenv()["CM_KEY_ALIAS"]
