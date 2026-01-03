@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.ttr.ttr_app"
+    namespace = "net.saumande.ttrapp"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
