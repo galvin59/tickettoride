@@ -70,6 +70,8 @@ flutter_launcher_icons:
   min_sdk_android: 21
   adaptive_icon_background: "#FFFFFF"
   adaptive_icon_foreground: "assets/images/icon.png"
+  # Remove transparency for iOS App Store
+  remove_alpha_ios: true
 
 flutter:
   uses-material-design: true
