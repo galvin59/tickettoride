@@ -32,10 +32,18 @@ android {
 
     signingConfigs {
         create("release") {
-            storeFile = file("../certifs/ttr.keystore")
-            storePassword = System.getenv("KEYSTORE_PASSWORD")
-            keyAlias = System.getenv("KEY_ALIAS")
-            keyPassword = System.getenv("KEY_PASSWORD")
+            if (System.getenv()["CI"] != null) { // CI=true is exported by Codemagic
+                storeFile = file(System.getenv()["CM_KEYSTORE_PATH"])
+                storePassword = System.getenv()["CM_KEYSTORE_PASSWORD"]
+                keyAlias = System.getenv()["CM_KEY_ALIAS"]
+                keyPassword = System.getenv()["CM_KEY_PASSWORD"]
+            } else {
+                // Local development
+                storeFile = file("../../certifs/ttr.keystore")
+                storePassword = "phoceis"
+                keyAlias = "phoceis"
+                keyPassword = "buxton"
+            }
         }
     }
     
