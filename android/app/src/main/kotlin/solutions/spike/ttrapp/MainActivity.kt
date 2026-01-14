@@ -1,4 +1,4 @@
-package com.ttr.ttr_app
+package solutions.spike.ttrapp
 
 import io.flutter.embedding.android.FlutterActivity
 
